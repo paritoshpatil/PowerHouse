@@ -1,0 +1,128 @@
+/* ::-webkit-scrollbar{
+  width: 10px;
+}
+/*
+::-webkit-scrollbar-track{
+  background: #FF5252;
+}
+
+::-webkit-scrollbar-thumb{
+  background: #FF5252;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #FF8A8A;
+} */
+
+#title {
+  background-color: #FF5252;
+}
+
+#features {
+  text-align: center;
+  margin: 7% 0;
+}
+
+#testimonials{
+  text-align: center;
+  background-color: #FF5252;
+  padding: 7% 15%;
+  color: #ffffff;
+}
+
+#pricing{
+  margin: 7% 10%;
+  text-align: center;
+}
+
+.pricing-card{
+  padding:2% 3%;
+  text-align: center;
+}
+
+body {
+  font-family: 'Poppins', sans-serif;
+  outline: none;
+}
+
+h1 {
+  font-family: 'Poppins', sans-serif;
+  font-weight: 700;
+  font-size: 3rem;
+  line-height: 1.5;
+  color: #ffffff;
+}
+
+h2{
+  font-family: 'Poppins', sans-serif;
+  font-weight: 700;
+  font-size: 2rem;
+}
+
+h3 {
+  font-size: 2rem;
+  font-weight: 700;
+}
+
+p{
+  color: #757575;
+}
+
+.container-fluid {
+  padding: 3% 15%;
+}
+
+.title-text {
+  margin-top: 4rem;
+}
+
+.btn {
+  margin: 50px 5px 10px 5px;
+}
+
+.navbar-brand {
+  font-size: 1.5rem;
+}
+
+.navbar {
+  padding: 0 0 1.5rem 0;
+}
+
+.nav-item {
+  padding: 0 10px;
+}
+
+.down-button {
+  text-align: center;
+}
+
+.down-button button {
+  background-color: inherit;
+  border: 0;
+  outline: none;
+}
+
+.features-col{
+  padding: 30px 5px 30px;
+}
+
+.features-icon {
+  color: #FF8A8A;
+  padding-bottom: 1.5rem;
+}
+
+.features-icon:hover{
+  color: #FF5252;
+  cursor: pointer;
+}
+
+.testimonials-img {
+  border-radius: 100%;
+  width: 15%;
+  margin: 20px 0 10px;
+}
+
+.carousel-indicators{
+  position: relative;
+  margin-top: 20px;
+}
