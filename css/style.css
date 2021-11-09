@@ -18,6 +18,10 @@
   background-color: #FF5252;
 }
 
+.height-full {
+  height: 100vh;
+}
+
 #features {
   text-align: center;
   margin: 7% 0;
